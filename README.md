@@ -20,4 +20,19 @@
 
     O(nlogn) --> O(6log6)
     
-    
+<br />
+
+# LICENSE
+
+* This software is licensed By Tuncay Demir under the MIT license.
+
+<br />
+
+>[Patika.dev](https://app.patika.dev/fogomurphy)
+
+<br/>
+
+| Name |  Email |
+| ---- |  ----- |
+| Tuncay | tuncaydemir682@gmail.com |
+
